@@ -80,7 +80,7 @@ Total runtime: X seconds
 - All executables must be compiled using a single Makefile. If you do not know how to write a 
 Makefile, refer [here](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
-- Your submission must be compressed and submitted using Sakaai.
+- Your submission must be compressed and submitted using Canvas.
   tar -zcvf proj-1-part2-<your_net_id>.tar.gz proj1-part2
 
 
